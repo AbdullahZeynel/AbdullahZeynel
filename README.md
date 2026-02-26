@@ -2,8 +2,8 @@
 *Fried in code and bytes.*
 
 👨‍💻 **Software Developer** building digital solutions.
-🌱 Currently learning **[New Tech]**.
-📫 Reach me at: **[Your Email]**.
+🌱 Currently learning **Containers, VMware, etc.**
+📫 Reach me at: **0abdullahzeynel0@gmail.com**.
 
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,git,linux,py)](https://skillicons.dev)
